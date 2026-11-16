@@ -4,7 +4,7 @@
 > [!NOTE] 
 > Note that this project is designed for Linux Mint Xfce, not tested for Mate or Cinnamon.
 
-> [!DISCLAIMER]
+> [!CAUTION]
 > Don't forget to extract the .tar.gz you downloaded before any steps!
 
 1. Setup:
