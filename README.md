@@ -4,6 +4,9 @@
 > [!NOTE] 
 > Note that this project is designed for Linux Mint Xfce, not tested for Mate or Cinnamon.
 
+> [!DISCLAIMER]
+> Don't forget to extract the .tar.gz you downloaded before any steps!
+
 1. Setup:
 > On your Linux Mint device, run terminal. To run the terminal you can press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd> at the same time, or search Terminal in the search menu and click the black app icon.
 > 
@@ -25,5 +28,5 @@
 
 ---
 
-Licensed under [CC BY-NC 4.0](https://creativecommons.org)
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
